@@ -145,7 +145,7 @@
      <!-- Screen off animation -->
     <string name="screen_off_animation_title">关闭屏幕时的动画</string>
     <string name="screen_off_animation_default">默认</string>
-    <string name="screen_off_animation_crt">CRT电视</string>
+    <string name="screen_off_animation_crt">CRT 电视</string>
     <string name="screen_off_animation_scale">缩放</string>
 
     <!-- Statusbar Tuner -->
@@ -314,7 +314,7 @@
     <string name="battery_percent_inside">在电池图标内显示</string>
 
     <!-- QuickSettings Panel Transparency -->
-    <string name="qs_panel_alpha_title">Opacity</string>
+    <string name="qs_panel_alpha_title">不透明度</string>
 
     <!-- Quick Settings brightness slider -->
     <string name="qs_show_brightness_title">亮度条</string>
@@ -337,7 +337,7 @@
     <string name="lockscreen_visualizer_summary">当音乐播放时在锁屏上使其可视化</string>
     
     <!-- Toast Animation -->
-    <string name="toast_animation_title">Toast动画</string>
+    <string name="toast_animation_title">Toast 动画</string>
     <string name="toast_none_animation">无动画</string>
     <string name="toast_default_animation">默认</string>
     <string name="toast_fade_animation">淡出</string>
@@ -458,8 +458,8 @@
     <string name="ignore_rssnr_summary">在线性信号强度计算中忽略误差</string>
 
     <!-- About team -->
-    <string name="about_team_title">关于Syberia OS团队</string>
-    <string name="about_team_summary">关于Syberia OS团队和设备维护者的信息(Chinese Translate By Tg@PianCat)</string>
-    <string name="syberia_team_title">Syberia OS团队</string>
+    <string name="about_team_title">关于Syberia OS 团队</string>
+    <string name="about_team_summary">关于Syberia OS 团队和设备维护者的信息(Chinese Translate By Tg@PianCat)</string>
+    <string name="syberia_team_title">Syberia OS 团队</string>
 
 </resources>
